@@ -1,0 +1,20 @@
+C:\Users\Contacto\Dropbox\Public\Proyectos Android\Muscletech\platforms\android\ant-build\classes.dex : \
+C:\Users\Contacto\Dropbox\Public\Proyectos Android\Muscletech\platforms\android\ant-build\classes\com\rjfun\cordova\plugin\AdMob$1.class \
+C:\Users\Contacto\Dropbox\Public\Proyectos Android\Muscletech\platforms\android\ant-build\classes\com\rjfun\cordova\plugin\AdMob$2.class \
+C:\Users\Contacto\Dropbox\Public\Proyectos Android\Muscletech\platforms\android\ant-build\classes\com\rjfun\cordova\plugin\AdMob$3.class \
+C:\Users\Contacto\Dropbox\Public\Proyectos Android\Muscletech\platforms\android\ant-build\classes\com\rjfun\cordova\plugin\AdMob$4.class \
+C:\Users\Contacto\Dropbox\Public\Proyectos Android\Muscletech\platforms\android\ant-build\classes\com\rjfun\cordova\plugin\AdMob$5.class \
+C:\Users\Contacto\Dropbox\Public\Proyectos Android\Muscletech\platforms\android\ant-build\classes\com\rjfun\cordova\plugin\AdMob$BannerListener.class \
+C:\Users\Contacto\Dropbox\Public\Proyectos Android\Muscletech\platforms\android\ant-build\classes\com\rjfun\cordova\plugin\AdMob$BasicListener.class \
+C:\Users\Contacto\Dropbox\Public\Proyectos Android\Muscletech\platforms\android\ant-build\classes\com\rjfun\cordova\plugin\AdMob$InterstitialListener.class \
+C:\Users\Contacto\Dropbox\Public\Proyectos Android\Muscletech\platforms\android\ant-build\classes\com\rjfun\cordova\plugin\AdMob.class \
+C:\Users\Contacto\Dropbox\Public\Proyectos Android\Muscletech\platforms\android\ant-build\classes\org\gstechnology\free\muscletech\BuildConfig.class \
+C:\Users\Contacto\Dropbox\Public\Proyectos Android\Muscletech\platforms\android\ant-build\classes\org\gstechnology\free\muscletech\Muscletech.class \
+C:\Users\Contacto\Dropbox\Public\Proyectos Android\Muscletech\platforms\android\ant-build\classes\org\gstechnology\free\muscletech\R$attr.class \
+C:\Users\Contacto\Dropbox\Public\Proyectos Android\Muscletech\platforms\android\ant-build\classes\org\gstechnology\free\muscletech\R$drawable.class \
+C:\Users\Contacto\Dropbox\Public\Proyectos Android\Muscletech\platforms\android\ant-build\classes\org\gstechnology\free\muscletech\R$integer.class \
+C:\Users\Contacto\Dropbox\Public\Proyectos Android\Muscletech\platforms\android\ant-build\classes\org\gstechnology\free\muscletech\R$string.class \
+C:\Users\Contacto\Dropbox\Public\Proyectos Android\Muscletech\platforms\android\ant-build\classes\org\gstechnology\free\muscletech\R$xml.class \
+C:\Users\Contacto\Dropbox\Public\Proyectos Android\Muscletech\platforms\android\ant-build\classes\org\gstechnology\free\muscletech\R.class \
+C:\Users\Contacto\Dropbox\Public\Proyectos Android\Muscletech\platforms\android\ant-build\dexedLibs\classes-c904ccd49b531f25a67d52b3facbc825.jar \
+C:\Users\Contacto\Dropbox\Public\Proyectos Android\Muscletech\platforms\android\ant-build\dexedLibs\google-play-services-0a0c61099c89b6ae5751ac7822b816a3.jar \
